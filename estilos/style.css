@@ -49,13 +49,14 @@ section#redes-sociais img {
     width: 50px;
     margin: 10px;
     border-radius: 50%;
-    box-shadow: 2px solid rgba(0, 0, 0, 0.400 green);
+    box-shadow: 2px solid rgba(0, 0, 0, 0.404);
+
 }
 
 section#redes-sociais img:hover {
-    border: 2px solid rgba(0, 0, 0, 0.637);
+    border: 2px solid rgba(255, 255, 255, 0.603);
     transform: translate(-3px, -3px);
     box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.637);
-    transition: transform .3s, border 1s;
+    transition: transform .2s, border 1s;
 }
 
